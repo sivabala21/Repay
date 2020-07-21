@@ -36,8 +36,8 @@ apt-get update -y && apt-get install git && apt-get install python && git clone 
 ## Installing (Windows):
 ```
 install python in your windows then follow the setps
-pip install tqdm
-pip install pyfiglet
+go to repay dir
+and open cmd
 python Sniperman.py
 ```
 
