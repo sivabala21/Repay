@@ -21,10 +21,10 @@ V1.2 will available soon
 ```
 apt-get update -y
 apt-get install git
-apt-get install python
+apt-get install python3
 git clone https://github.com/BOT-CODER/repay.git
 cd repay
-python Repay.py
+python3 Repay.py
 
 ```
 ## One line Installation:
