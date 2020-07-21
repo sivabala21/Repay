@@ -42,6 +42,6 @@ python Sniperman.py
 
 ## OUR Youtube channel:
 
-![TechCore](https://www.youtube.com/channel/UCQ-LKudsVwfoXRhvDF2-vGQ?sub_confirmation=1)
+[TechCore](https://www.youtube.com/channel/UCQ-LKudsVwfoXRhvDF2-vGQ?sub_confirmation=1)
 
 (subscribe for hacking stuff videos )
