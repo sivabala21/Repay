@@ -123,7 +123,7 @@ if __name__=='__main__':
             print(Fore.RED+"Please update the Program")
             print("Redirecting...."+Fore.RESET)
             time.sleep(3)
-            webbrowser.open('https://github.com/BOT-CODER/SniperMan')
+            webbrowser.open('https://github.com/BOT-CODER/Repay')
             exit()
         else:
             main()
