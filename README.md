@@ -22,20 +22,20 @@ V1.2 will available soon with more language with Listening to shell
 apt-get update -y
 apt-get install git
 apt-get install python3
-git clone https://github.com/BOT-CODER/repay.git
-cd repay
+git clone https://github.com/BOT-CODER/Repay.git
+cd Repay
 python3 Repay.py
 
 ```
 ## One line Installation:
 ```
-apt-get update -y && apt-get install git && apt-get install python && git clone https://github.com/BOT-CODER/repay.git && cd repay && python3 Repay.py
+apt-get update -y && apt-get install git && apt-get install python && git clone https://github.com/BOT-CODER/Repay.git && cd Repay && python3 Repay.py
 
 ```
 ## Installing (Windows):
 ```
 install python in your windows then follow the setps
-go to repay dir
+go to Repay dir
 and open cmd
 python Sniperman.py
 ```
