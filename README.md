@@ -29,7 +29,7 @@ python3 Repay.py
 ```
 ## One line Installation:
 ```
-apt-get update -y && apt-get install git && apt-get install python && git clone https://github.com/BOT-CODER/repay.git && cd repay && python Repay.py
+apt-get update -y && apt-get install git && apt-get install python && git clone https://github.com/BOT-CODER/repay.git && cd repay && python3 Repay.py
 
 ```
 ## Installing (Windows):
