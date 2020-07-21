@@ -1,8 +1,7 @@
 # Repay
 #V 1.1
-
-This Tool is used to make DDos attack on server from any Devices
-![SniperMan](https://i.ibb.co/LYHdSjr/IMG-20200502-131701.jpg)
+Preview
+![SniperMan](https://ibb.co/4RSNzGw)
 
 # How it Works? 
  It Generates a reverse Shell code for your victim in all Programming language
