@@ -15,7 +15,7 @@ Using a reverse shell is of particular use if a target has a firewall that block
 The Code is written in python3 so Dont worry it works well without any Bug
 
 #### Coming Soon:
-V1.2 will available soon
+V1.2 will available soon with more language with Listening to shell
 
 ## Installing (linux/termux/Mac os):
 ```
