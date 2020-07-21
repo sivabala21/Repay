@@ -1,7 +1,7 @@
 # Repay
 #V 1.1
 Preview
-![SniperMan](https://ibb.co/4RSNzGw)
+![Repay](https://i.ibb.co/jkw4m29/Capture.png)
 
 # How it Works? 
  It Generates a reverse Shell code for your victim in all Programming language
