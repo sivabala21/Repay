@@ -1,7 +1,7 @@
 # Repay
 #V 1.1
 Preview
-![Repay](https://i.ibb.co/jkw4m29/Capture.png)
+![Repay](https://i.ibb.co/j5qtTJ2/gdf.png)
 
 # How it Works? 
  It Generates a reverse Shell code for your victim in all Programming language
@@ -42,6 +42,6 @@ python Sniperman.py
 
 ## OUR Youtube channel:
 
-![Tech Core](https://www.youtube.com/channel/UCQ-LKudsVwfoXRhvDF2-vGQ?sub_confirmation=1)
+![TechCore](https://www.youtube.com/channel/UCQ-LKudsVwfoXRhvDF2-vGQ?sub_confirmation=1)
 
 (subscribe for hacking stuff videos )
