@@ -117,7 +117,7 @@ if __name__=='__main__':
         banner()
         page = urllib.request.urlopen('https://pastebin.com/A9ji8jbm').read()
         soup = BeautifulSoup(page, 'html.parser')
-        version = soup.find(id="paste_code").text
+        version = soup.find('div',class_='de1').text
         if version > de_version:
             print(Fore.CYAN+"Version "+Fore.MAGENTA+version+Fore.CYAN+" is Avaiable")
             print(Fore.RED+"Please update the Program")
